@@ -1,8 +1,13 @@
-h1, p {
-  color: DarkSlateGray
+h1 {
+  font-size: 36px;
+  color: Red;
 }
 
-/* Universal Styling */
-* {
-  font-family: Georgia
+p {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 24px;
+  color: DarkGreen;
 }
