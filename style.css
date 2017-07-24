@@ -1,15 +1,32 @@
 h1 {
   font-size: 36px;
-  color: Red;
+  color: #3F0140;
+  color: rgb(63, 1, 64);
+  color: rgba(63, 1, 64, 0.75);
+
   /*to find names of colors go http://www.colors.commutercreative.com/grid/
   to find RGB colors use colorpicker https://color.adobe.com/   color: rgb(54, 74, 101);*/
 }
 
 p {
   font-size: 18px;
+  color: #170017;
+  background-color: #BEFFD1;
 }
 
 h3 {
   font-size: 24px;
-  color: DarkGreen;
+  color: #752F60;
+}
+
+ul {
+  font-size: 18px;
+  color: #170017;
+  background-color: #BEFFD1;
+}
+
+ol {
+  font-size: 18px;
+  color: #170017;
+  background-color: #BEFFD1;
 }
