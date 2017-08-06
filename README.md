@@ -6,3 +6,4 @@ git commit -m "any comment"
 - to add comment of what change has been done
 git push
 - push the changes to git repository
+checking if atom work.
