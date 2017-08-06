@@ -7,3 +7,4 @@ git commit -m "any comment"
 git push
 - push the changes to git repository
 checking if atom work.
+with user name
